@@ -478,7 +478,7 @@ section {
 
 .about .content h3 {
   font-weight: 400;
-  font-size: 32px;
+  font-size: 35px;
   color: #364146;
   font-family: "Poppins", sans-serif;
 }
@@ -493,9 +493,10 @@ section {
 }
 
 .about .content ul i {
-  font-size: 20px;
+  font-size: 35px;
+  letter-spacing: 5px;
   padding-right: 4px;
-  color: #28a745;
+  color: #99D0FB;
 }
 
 .about .content p:last-child {
